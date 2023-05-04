@@ -54,32 +54,12 @@ export default {
             type: 'select',
             options: [
               {
-                key: 'light',
-                value: 'light',
-                metadatas: {
-                  intlLabel: {
-                    id: 'ckeditor.preset.light.label',
-                    defaultMessage: 'Light version'
-                  }
-                }
-              },
-              {
                 key: 'standard',
                 value: 'standard',
                 metadatas: {
                   intlLabel: {
                     id: 'ckeditor.preset.standard.label',
                     defaultMessage: 'Standard version'
-                  }
-                }
-              },
-              {
-                key: 'rich',
-                value: 'rich',
-                metadatas: {
-                  intlLabel: {
-                    id: 'ckeditor.preset.rich.label',
-                    defaultMessage: 'Rich version'
                   }
                 }
               }
