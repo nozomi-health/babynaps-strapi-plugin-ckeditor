@@ -121,6 +121,9 @@ const CKEDITOR_BASE_CONFIG_FOR_PRESETS = {
         'toggleTableCaption'
       ]
     },
+    mediaEmbed: {
+      previewsInData: true,
+    }
   },
 };
 
